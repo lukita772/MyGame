@@ -1,0 +1,5 @@
+Se compila de la siguiente forma:
+
+gcc main.c dibujar_funciones.c  level_funciones.c enemy_funciones.c inicializar.c coliciones.c char_funciones.c check_juego.c -lSDL  -lSDL_ttf -oprueba
+
+(Se precisa descargar paquetes SDL y paquetes TTF)
