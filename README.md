@@ -3,6 +3,8 @@
 ## Requirements
 - SDL Libraries
 - TTL fonts
+- GCC Compiler
+- Linux-based SO
 
 ## To install SDL libraries
 Execute the next command line:
