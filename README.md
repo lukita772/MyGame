@@ -1,4 +1,4 @@
-# My game
+# A linux based game developed in my first year of university
 
 ## Requirements
 - SDL Libraries
